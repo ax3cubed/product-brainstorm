@@ -56,12 +56,12 @@
     "@types/matter-js": "^0.20.2",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "@vitejs/plugin-basic-ssl": "^2.1.0",
-    "@vitejs/plugin-react": "^5.1.0",
+    "@vitejs/plugin-basic-ssl": "^2.3.0",
+    "@vitejs/plugin-react": "^5.2.0",
     "sass": "^1.93.2",
     "typescript": "^5.0.2",
-    "vite": "^7.1.12",
-    "vite-plugin-node-polyfills": "^0.24.0",
+    "vite": "^8.0.16",
+    "vite-plugin-node-polyfills": "^0.28.0",
     "vite-tsconfig-paths": "^5.1.4"
   },
   "overrides": {
